@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## 李昊喆（2007010153）
 
-You can use the [editor on GitHub](https://github.com/KELLERJERRY/SFSFSF-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介：
 
-### Markdown
+姓名：李昊喆
+性别：男
+籍贯：湖南省邵东市
+专业：法学
+政治面貌：团员
+电子邮件：772992362@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技能总结：
+英语四级，能进行初步的论文资料查找
 
-```markdown
-Syntax highlighted code block
+### 兴趣爱好:
+电子竞技，旅游，摄影，音乐等等一切美好的事物
 
-# Header 1
-## Header 2
-### Header 3
+### 教育背景：
+湖南工商大学法学院大二年级本科在读
 
-- Bulleted
-- List
+### 主修课程：
+民法 刑法 经济法 国际法 民诉法 刑诉法等
 
-1. Numbered
-2. List
+### 获奖情况:
+市级优秀学生干部
 
-**Bold** and _Italic_ and `Code` text
+### 自我评价：
+间接性努力学习，持续性混吃等死
+简称仰卧起坐
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KELLERJERRY/SFSFSF-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 还有什么想说的？
+希望老师让我过这门课，求求了！！
